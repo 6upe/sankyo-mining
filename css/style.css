@@ -432,14 +432,14 @@
 /*** Testimonial ***/
 .testimonial-img {
     position: relative;
-    min-height: 400px;
+    min-height: 500px;
     overflow: hidden;
 }
 
 .testimonial-img div {
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     animation-duration: 5s;
 }
 
@@ -474,7 +474,7 @@
     right: -1px;
     bottom: -1px;
     left: -1px;
-    box-shadow: 0 0 10px 10px var(--bs-white) inset;
+    box-shadow: 0 0 5px 5px var(--bs-white) inset;
     z-index: 1;
 }
 
