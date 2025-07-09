@@ -17,7 +17,6 @@ To be the most preferred and leading general mining company by exceeding client 
 - People-first approach, valuing associates as our greatest resource.
 - Recognition and reward for excellence.
 - Promotion of diversity, individuality, and team spirit.
-- Commitment to a dynamic and inclusive work environment.
 
 ## Contact Information
 For inquiries, please visit our website or contact us at:
